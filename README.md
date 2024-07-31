@@ -19,7 +19,7 @@ Download the repository by using git clone:
 git clone https://github.com/haesoljung04/RaycaEvalTask.git
 ```
 
-Because the gene expression data I used was around 150MB, please download [this file](https://drive.google.com/file/d/1jHq4NinqiEocsDNet07irTY9SI7_58-g/view?usp=sharing) here and drag/drop it into the 'data' folder
+Because the gene expression data I used was around 150MB, please download [this file](https://drive.google.com/file/d/1jHq4NinqiEocsDNet07irTY9SI7_58-g/view?usp=sharing) here and drag/drop it into the 'data' folder.
 
 Then you can test the code by first opening up this project directory. If you are in terminal you can simply run this command:
 ```bash
