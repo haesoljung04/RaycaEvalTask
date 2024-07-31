@@ -14,9 +14,9 @@ pip install lifelines
 pip install sklearn
 ```
 
-Download the given folder called RaycaEvalTask using git clone:
+Download the given folder to your local machine using git clone:
 ```bash
-git clone 
+git clone https://github.com/haesoljung04/RaycaEvalTask.git
 ```
 
 Then you can test the code by first opening up this project directory. If you are in terminal you can simply run this command:
